@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch==2.2.2
+spacy
+scikit-learn
+sentence-transformers
+faiss-cpu
+python-dotenv
+openai
+numpy<2.0

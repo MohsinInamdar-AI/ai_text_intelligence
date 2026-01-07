@@ -5,7 +5,7 @@ An end-to-end **Healthcare-focused NLP & AI API** built using **Python, FastAPI,
 This project demonstrates **sentiment analysis, keyword extraction, text summarization, semantic search,
 and Retrieval-Augmented Generation (RAG)** using healthcare-related content.
 
-The system is **CPU-friendly**, **Dockerized**, and **interview-ready**.
+
 
 ---
 
